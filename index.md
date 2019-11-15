@@ -6,7 +6,9 @@ I have completed work experience in a graphic design business, and gained valuab
 
 ## Useful Links
 [My GitHub Profile](https://github.com/adammparsons)
+
 [My LinkedIn](https://www.linkedin.com/in/adam-m-parsons/)
+
 [My Twitter](https://twitter.com/adammparsons)
 
 ## Contact Me
