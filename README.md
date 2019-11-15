@@ -1,5 +1,5 @@
 # adammparsons.github.io
 
-My passion for games has led me to taking a computing GCSE course and a course on Games Development. I have completed work experience in a graphic design business, and gained valuable skills such as utilising Adobe Photoshop.
+I am a Stafforshire University student whose passion for games has led me to taking a computing GCSE course, a course on Games Development and now a Bachelor of Science, BSc (Hons) for Computer Games Programming. 
 
-I am currently studying Computer Games Programming at Staffordshire University, and aspire to program games as a career.
+I have completed work experience in a graphic design business, and gained valuable skills such as coding in languages such as C++ and the understanding of commercial games engines such as Unreal Engine 4 and Gamemaker Studio.
