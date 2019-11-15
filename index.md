@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Who am I
 
-You can use the [editor on GitHub](https://github.com/adammparsons/adammparsons.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Stafforshire University student whose passion for games has led me to taking a computing GCSE course, a course on Games Development and now a Bachelor of Science, BSc (Hons) for Computer Games Programming. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have completed work experience in a graphic design business, and gained valuable skills such as coding in languages such as C++ and the understanding of commercial games engines such as Unreal Engine 4 and Gamemaker Studio.
 
-### Markdown
+## Useful Links
+[My GitHub Profile](https://github.com/adammparsons)
+[My LinkedIn](https://www.linkedin.com/in/adam-m-parsons/)
+[My Twitter](https://twitter.com/adammparsons)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact Me
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adammparsons/adammparsons.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you wish to contact me, please do so at any above social platform.
