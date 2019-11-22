@@ -16,6 +16,8 @@ I have completed work experience in a graphic design business, and gained valuab
 ## My Projects
 [Reproducing Pacman in C++](https://github.com/adammparsons/pacman)
 
+[Reproducing Mario Bros in C++](https://github.com/adammparsons/mario)
+
 ## Contact Me
 
 If you wish to contact me, please do so at any above social platform.
