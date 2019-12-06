@@ -7,18 +7,17 @@ I am a Staffordshire University student whose passion for games has led me to ta
 I have completed work experience in a graphic design business, and gained valuable skills such as coding in languages such as C++ and the understanding of commercial games engines such as Unreal Engine 4 and Gamemaker Studio.
 
 ## Useful Links
-[My GitHub Profile](https://github.com/adammparsons)
+
+<a href="https://www.linkedin.com/in/adam-m-parsons/" target="_blank">My LinkedIn</a>
+
+<a href="https://twitter.com/adammparsons" target="_blank">My Twitter</a>
 
 <a href="https://github.com/adammparsons" target="_blank">My GitHub Profile</a>
 
-[My LinkedIn](https://www.linkedin.com/in/adam-m-parsons/)
-
-[My Twitter](https://twitter.com/adammparsons)
-
 ## My Projects
-[Reproducing Pacman in C++](https://github.com/adammparsons/pacman)
+<a href="https://github.com/adammparsons/pacman" target="_blank">Reproducing Pacman in C++</a>
 
-[Reproducing Mario Bros in C++](https://github.com/adammparsons/mario)
+<a href="https://github.com/adammparsons/mario" target="_blank">Reproducing Mario Bros in C++</a>
 
 ## Contact Me
 
