@@ -22,3 +22,5 @@ I have completed work experience in a graphic design business, and gained valuab
 ## Contact Me
 
 If you wish to contact me, please do so at any above social platform.
+
+© Adam Parsons 2019
